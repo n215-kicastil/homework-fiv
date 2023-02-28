@@ -1,6 +1,5 @@
 # homework-five
 
-# este es mi primer intento
 # Task
 # For this homework assignment, you will be making the about page from the Travel-fly prototype Download Travel-fly prototypeand making it responsive.
 
